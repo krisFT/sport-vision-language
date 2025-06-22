@@ -1,0 +1,121 @@
+{
+  "image_path": "test_nba_photo.jpg",
+  "object_detection": {
+    "people_count": 2,
+    "object_classes": [
+      "Tyrese_Haliburton",
+      "Shai_Gilgeous-Alexander"
+    ],
+    "boxes": [
+      "[     405.51       285.4      493.59       396.3]",
+      "[      669.9      228.13       765.7      335.99]"
+    ],
+    "results": [
+      {
+        "bbox": "[     405.51       285.4      493.59       396.3]",
+        "name": "Tyrese_Haliburton",
+        "confidence": "0.54610115"
+      },
+      {
+        "bbox": "[      669.9      228.13       765.7      335.99]",
+        "name": "Shai_Gilgeous-Alexander",
+        "confidence": "0.5791184"
+      }
+    ]
+  },
+  "ocr_texts": [
+    {
+      "text": "2",
+      "confidence": 0.9999710323524234,
+      "bbox": [
+        [
+          "345",
+          "305"
+        ],
+        [
+          "387",
+          "305"
+        ],
+        [
+          "387",
+          "365"
+        ],
+        [
+          "345",
+          "365"
+        ]
+      ],
+      "center": [
+        366.0,
+        335.0
+      ]
+    },
+    {
+      "text": "INDIANA",
+      "confidence": 0.975339596999168,
+      "bbox": [
+        [
+          388.9313326439663,
+          509.30386570155287
+        ],
+        [
+          576.0822336733174,
+          471.53496990732214
+        ],
+        [
+          586.0686673560336,
+          534.6961342984472
+        ],
+        [
+          398.9177663266825,
+          572.4650300926778
+        ]
+      ],
+      "center": [
+        487.49999999999994,
+        522.0
+      ]
+    },
+    {
+      "text": "DER",
+      "confidence": 0.6007188452517506,
+      "bbox": [
+        [
+          758.914249429668,
+          430.0740208365765
+        ],
+        [
+          835.8976891728458,
+          446.94760761095307
+        ],
+        [
+          820.085750570332,
+          518.9259791634236
+        ],
+        [
+          742.1023108271542,
+          502.05239238904693
+        ]
+      ],
+      "center": [
+        789.25,
+        474.5
+      ]
+    }
+  ],
+  "ner_entities": {
+    "PERSON": [],
+    "ORG": [],
+    "TEAM": [
+      "INDIANA",
+      "Pacers",
+      "Thunder"
+    ],
+    "GPE": [],
+    "CARDINAL": [
+      "2"
+    ],
+    "MISC": []
+  },
+  "scene_analysis": "**Alex:** Alright folks, we've got a great shot here! Looks like we've got Tyrese Haliburton, you can see \"INDIANA\" across his chest and that number '2', going up against Shai Gilgeous-Alexander. Given the angle, it looks like Shai's on the defensive. Jamie, what are you seeing in terms of their body language here?\n\n**Jamie:** Good eye, Alex. Shai definitely looks like he's playing it tight. Stance is low, hands active. He's trying to cut off Haliburton's drive. Haliburton, on the other hand, looks like he's sizing up the defense, maybe deciding whether to drive, pass, or pull up for a jumper. Key matchup for both the Pacers and the Thunder. I imagine the Pacers are hoping Haliburton can create something positive.\n\n**Alex:** Absolutely. You know, with \"DER\" visible on Haliburton\u2019s jersey, we\u2019re probably seeing a close-up after some action, showing the jersey details. From what we're seeing, the Pacers want Haliburton to make a play. Do you think the Thunder are specifically targeting him defensively, Jamie?\n\n**Jamie:** I would bet on it, Alex. Shai's a good defender, and you want your best guy on their best guy. The Thunder know that if they can limit Haliburton, they've got a much better shot at slowing down the entire Pacers offense. This specific possession could be a pivotal moment in the game, setting the tone for how the rest of the match unfolds.\n"
+}

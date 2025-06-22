@@ -1,0 +1,17 @@
+# Large files
+*.mp4
+*.zip
+.env
+
+# Folders
+__pycache__/
+video_frames_output/
+video_package/
+SadTalker/
+generated_audio/
+nba_player_images/
+
+# IDE / OS generated
+.vscode/
+.idea/
+*.DS_Store 
